@@ -1,0 +1,14 @@
+# Backend
+backend/target/
+backend/.idea/
+
+# Frontend
+frontend/node_modules/
+frontend/.env
+frontend/build
+frontend/.next
+frontend/.early.coverage
+
+# Common
+.DS_Store
+*.log
